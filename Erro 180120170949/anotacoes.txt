@@ -1,0 +1,1 @@
+Página exibida ao acessar recurso sem fazer login

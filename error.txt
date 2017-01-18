@@ -1,2 +1,2 @@
-Informações diferem das colunas em algumaslistagens como a pagina de Pessoas
+Informações diferem das colunas em algumas listagens
 Traduzir todas mensagens de erro
